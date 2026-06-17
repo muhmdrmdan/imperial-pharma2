@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 56" width="250" height="56" role="img" aria-label="Imperial Pharma">
+  <defs>
+    <linearGradient id="tg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8fe9f2"/><stop offset="1" stop-color="#2a86cf"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <circle cx="28" cy="28" r="22" fill="none" stroke="url(#tg)" stroke-width="2.4"/>
+    <path d="M28 15 v26 M15 28 h26" stroke="url(#tg)" stroke-width="4.6" stroke-linecap="round"/>
+    <circle cx="28" cy="28" r="5.4" fill="#fff"/>
+    <circle cx="28" cy="28" r="3" fill="#2a86cf"/>
+  </g>
+  <text x="62" y="27" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="21" font-weight="800" letter-spacing="2.5" fill="#0c3d6e">IMPERIAL</text>
+  <text x="63" y="43" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="8" font-weight="600" letter-spacing="4.4" fill="#0bb3c4">PHARMA · BELGIUM</text>
+</svg>
